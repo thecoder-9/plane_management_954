@@ -1,2 +1,3 @@
-# plane_management_954
-This is a Plane management ticketing system project
+# This is my second project in my first year of university (Semester 2)
+
+I'm following a Software Engineering degree at Informatics Institute of Technology Sri Lanka. This project was assigned to us to create a Plane management ticketing system project. Here the user can select menu options such as "Buy a seat", "Cancel a seat", "Find first available seat", "Show seating plan", "Print tickets information and total sales", "Search ticket" and lastly after they have finished using the system they can select "Quit". For ease of text files with the information of the tickets they have booked are created.
